@@ -2,8 +2,6 @@
 
 A collection of scripts, examples, and notebooks for training and evaluating computer vision models using OpenCV and common ML frameworks. This repository provides utilities for preparing datasets, training models (classical and deep learning), running inference, and evaluating results.
 
-> NOTE: This README is a template — adjust the commands, filenames, and requirements to match the actual files and structure in your repository.
-
 ## Table of Contents
 
 - [Overview](#overview)
